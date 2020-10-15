@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Azek's github stats](https://github-readme-stats.vercel.app/api?username=SudoAzek&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/SudoAzek/github-readme-stats&theme=gradient)
 
