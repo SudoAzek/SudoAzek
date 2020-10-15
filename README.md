@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Azek's github stats](https://github-readme-stats.vercel.app/api?username=SudoAzek)](https://github.com/SudoAzek/github-readme-stats)
+[![Azek's github stats](https://github-readme-stats.vercel.app/api?username=SudoAzek&count_private=true&show_icons=true)](https://github.com/SudoAzek/github-readme-stats&theme=gradient)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAzek&langs_count=8)](https://github.com/SudoAzek/github-readme-stats)
+
+[![Azek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SudoAzek&count_private=true)](https://github.com/SudoAzek/github-readme-stats)
 
 <!--
 **SudoAzek/SudoAzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
