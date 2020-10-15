@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Azek's github stats](https://github-readme-stats.vercel.app/api?username=SudoAzek&count_private=true&show_icons=true)](https://github.com/SudoAzek/github-readme-stats&theme=gradient)
+[![Azek's github stats](https://github-readme-stats.vercel.app/api?username=SudoAzek&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/SudoAzek/github-readme-stats&theme=gradient)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAzek&langs_count=8)](https://github.com/SudoAzek/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAzek&layout=compact)](https://github.com/SudoAzek/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=SudoAzek&color=blueviolet)
 <!--
