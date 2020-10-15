@@ -4,6 +4,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAzek&langs_count=8)](https://github.com/SudoAzek/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=SudoAzek)
 <!--
 **SudoAzek/SudoAzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
