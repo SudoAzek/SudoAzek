@@ -1,4 +1,5 @@
 ### Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Azamat Ochilov and I'm a software engineer. I'm from Uzbekistan, living in S.K. and currently working on various projects. You can find me on  or on [![LinkedIn][1]][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -18,6 +19,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAzek&layout=compact)](https://github.com/SudoAzek/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=SudoAzek&color=blueviolet)
+
+[1]: https://www.linkedin.com/in/SudoAzek/
 <!--
 **SudoAzek/SudoAzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
