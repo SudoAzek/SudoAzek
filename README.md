@@ -1,5 +1,5 @@
 ### Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Azamat Ochilov and I'm a software engineer. I'm from Uzbekistan, living in S.K. and currently working on various projects. You can find me on  or on [![LinkedIn][1]][1].
+I'm Azamat Ochilov. You can find me on [![LinkedIn][1]][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
