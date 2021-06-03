@@ -16,7 +16,7 @@ I'm Azamat Ochilov. You can find me on [![LinkedIn][1]][1].
 
 [![Azek's github stats](https://github-readme-stats.vercel.app/api?username=SudoAzek&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/SudoAzek/github-readme-stats&theme=gradient)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAzek&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAzek&langs_count=8&theme=tokyonight)]()
 
 ![](https://komarev.com/ghpvc/?username=SudoAzek&color=blueviolet)
 
